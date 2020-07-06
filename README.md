@@ -1,5 +1,4 @@
 # calendar
-Calendar in Beta testing
 
 A calendaring tool is now available for the W3C community for beta              
 testing.                                          
