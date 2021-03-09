@@ -1,26 +1,19 @@
 # calendar
 
 A calendaring tool is now available for the W3C community for beta              
-testing.                                          
-                                                                                                                                    
-At this point, we offer a NextCloud instance, open to all chairs and            
-team contacts (use your W3C credentials).
+testing.
 
-You may create, share and publish calendars (i.e. make them public) for         
-any group. The tool gives the ability to send invitations, serve ics files      
-and enables calDAV subscriptions, to inform the group participants. It is       
-also possible to embed a simple web view in any web page via an iframe.
+This Web application has different components:
+- [All groups](https://www.w3.org/groups) have a new "Calendar" tab displaying upcoming meetings related to them.
+- All users have a [personal calendar](https://www.w3.org/users/myprofile/calendar) listing all meetings they are
+  invited to.
+- Chairs and Team contacts can schedule meetings, recurring or not.
+- Events and calendars can be exported as ICS files and subscribed to from third-party calendaring clients.
+- Group participants and other invited people are notified by email of new meetings and scheduling changes. This can be
+  opted out from [user profiles](https://www.w3.org/users/myprofile/edit).
 
-Some user documentation shows how to start:                                     
-https://w3c.github.io/Guide/meetings/calendar/help                              
-                                                                                
-Since all the information will be publicly available, make sure                 
-you don't publish sensitive information about teleconference access             
-directly in the events you create (you may use a URI to a protected             
-page).                                                                          
-                                                                                
-We will gather your feedback and, if the beta test is successful,               
-propose further usage such as automatic integration of a calendar               
-(web view) in group pages.  
+Most of the information provided when creating or editing events will be public, except for joining instructions which
+are restricted to W3C Member organizations, group participants and other invited individuals.
 
-Please report any issue as a GH issue.
+Should you find any issues with this application or have comments, feel free to
+[open new GH issues](https://github.com/w3c/calendar/issues).
