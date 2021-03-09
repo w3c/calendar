@@ -1,7 +1,6 @@
 # calendar
 
-A calendaring tool is now available for the W3C community for beta              
-testing.
+A calendaring tool is now available for the W3C community for beta testing.
 
 This Web application has different components:
 - [All groups](https://www.w3.org/groups) have a new "Calendar" tab displaying upcoming meetings related to them.
