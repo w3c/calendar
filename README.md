@@ -1,6 +1,6 @@
-# calendar
+# W3C Calendar
 
-A calendaring tool is now available for the W3C community for beta testing.
+A calendaring tool is now available for the W3C community.
 
 This Web application has different components:
 - [All groups](https://www.w3.org/groups) have a new "Calendar" tab displaying upcoming meetings related to them.
@@ -18,7 +18,7 @@ Should you find any issues with this application or have comments, feel free to
 [open new GH issues](https://github.com/w3c/calendar/issues).
 
 For reference, some examples:
-- [Dataset Exchange Working Group Calendar](https://www.w3.org/groups/wg/dx/calendar)
-- [Event details](https://www.w3.org/events/meetings/a93dfa4d-94bf-4a96-a459-c465cfd59bb3/20210317T210000)
-- [Event creation form](https://www.w3.org/events/meetings/new) (restricted to W3C Chairs and Staff)
+- [Calendar - EPUB 3 Working Group](https://www.w3.org/groups/wg/epub/calendar)
+- [Event details - Devices and Sensors WG - 2021 Q2 virtual meeting - Sensors](https://www.w3.org/events/meetings/25801de1-caf6-434c-b20c-6ed1819cbe90)
+- [Event creation form](https://www.w3.org/events/meetings/new) *(restricted to W3C Chairs and Staff)*
 - [Your personal calendar](https://www.w3.org/users/myprofile/calendar)
