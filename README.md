@@ -14,6 +14,8 @@ This Web application has different components:
 Most of the information provided when creating or editing events will be public, except for joining instructions which
 are restricted to W3C Member organizations, group participants and other invited individuals.
 
+Further hints may be found in the W3C Guide section [Organizing a distributed meeting](https://www.w3.org/Guide/meetings/organize.html#calendar).
+
 Should you find any issues with this application or have comments, feel free to
 [open new GH issues](https://github.com/w3c/calendar/issues).
 
