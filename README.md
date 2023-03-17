@@ -9,7 +9,7 @@ This Web application has different components:
 - Chairs and Team contacts can schedule meetings, recurring or not.
 - Events and calendars can be exported as ICS files and subscribed to from third-party calendaring clients.
 - Group participants and other invited people are notified by email of new meetings and scheduling changes. This can be
-  opted out from [user profiles](https://www.w3.org/users/myprofile/edit).
+  opted out from [your calendar preferences](https://www.w3.org/users/myprofile/calendar/preferences).
 
 Most of the information provided when creating or editing events will be public, except for joining instructions which
 are restricted to W3C Member organizations, group participants and other invited individuals.
