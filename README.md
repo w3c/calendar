@@ -1,9 +1,9 @@
 # W3C Calendar
 
-A calendaring tool is now available for the W3C community.
+A calendaring tool is available for the W3C community.
 
 This Web application has different components:
-- [All groups](https://www.w3.org/groups/) have a new "Calendar" tab displaying upcoming meetings related to them.
+- [All groups](https://www.w3.org/groups/) have a "Calendar" tab displaying upcoming meetings related to them.
 - All users have a [personal calendar](https://www.w3.org/users/myprofile/calendar/) listing all meetings they are
   invited to.
 - Chairs and Team contacts can schedule meetings, recurring or not.
